@@ -1,0 +1,29 @@
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\bin\Debug\CartAgenda.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\bin\Debug\CartAgenda.exe
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\bin\Debug\CartAgenda.pdb
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.exe
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.pdb
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formAcesso.resources
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formHome.resources
+c:\users\alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formInsert.resources
+C:\Users\Alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formUpdate.resources
+C:\Users\Alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formDelete.resources
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\bin\Debug\CartAgenda.exe.config
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\bin\Debug\CartAgenda.exe
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\bin\Debug\CartAgenda.pdb
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formDelete.resources
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formHome.resources
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formInsert.resources
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formAcesso.resources
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.Properties.Resources.resources
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.formUpdate.resources
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.csproj.GenerateResource.Cache
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.exe
+C:\Users\AlexAlves\Downloads\CartAgenda\CartAgenda\obj\Debug\CartAgenda.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.Models_Views.formAmigo.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.Models_Views.formParente.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.Models_Views.formAdministrador.resources
+C:\Users\Alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.csproj.ResolveComReference.cache
+C:\Users\Alex\documents\visual studio 2015\Projects\CartAgenda\CartAgenda\obj\Debug\CartAgenda.csprojResolveAssemblyReference.cache
